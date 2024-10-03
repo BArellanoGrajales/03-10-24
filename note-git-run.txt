@@ -5,5 +5,8 @@ Paso 2: una vez en el lugar donde quieres crear tu carpeta que sera publica en G
     NOta: tambien puedes crearlo manualmente desde el explorador de archivos sin necesidad de usar la terminal.
 Paso 3: utilizar de nueva cuenta los comando cd .. y cd para revisar que la terminal esta donde quieres iniciar git. 
     una ves hecho eso debemos de usar el comando git init . esto se usa para iniciar el comando donde queremos que se agrege Git.
-Paso 4 
+Paso 4: Comenzamos a  hacer nuestros cambios y depsues podemos hacemos nuestro primer commit 
+    git commit -m "Mi primer commit"  /   Esto registrará los cambios en tu repositorio local con el mensaje "Mi primer commit".
+
+
 
