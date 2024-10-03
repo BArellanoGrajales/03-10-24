@@ -1,0 +1,5 @@
+Paso 1: Buscar el lugar donde queremos abrir nuestra carpeta compartida git. 
+    podemos usar los siguientes comando en terminal en visual Code o en cmd :    cd  (para posicionarme dentro de una carpeta) y  cd ..  (se usa para retroceder de carpeta)
+    NOta: se recomienda abrirlo en disco local c / 
+Paso 2: una vez en el lugar donde quieres crear tu carpeta que sera publica en Git Hub, debes de utilizar el comando mkdir seguido del nombre de la carpeta que quieres poner en la terminal para crear una carpeta
+    NOta: tambien puedes crearlo manualmente desde el explorador de archivos sin necesidad de usar la terminal. 
