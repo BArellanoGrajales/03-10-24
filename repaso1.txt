@@ -1,3 +1,4 @@
+Instructivo formulas GIT - pasos 
 Paso 1: Buscar el lugar donde queremos abrir nuestra carpeta compartida git. 
     podemos usar los siguientes comando en terminal en visual Code o en cmd :    cd  (para posicionarme dentro de una carpeta) y  cd ..  (se usa para retroceder de carpeta)
     NOta: se recomienda abrirlo en disco local c / 
